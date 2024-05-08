@@ -59,4 +59,8 @@ Vue.js foi escolhido como o framework de frontend por várias razões:
 3. **Svelte:**
     - **Prós:** Svelte compila o código para JavaScript puro no momento da construção, resultando em um código de frontend mais rápido e eficiente. Ele também tem uma sintaxe simples e limpa, o que pode tornar o código mais legível e fácil de manter.
     - **Contras:** Svelte é relativamente novo e não tão amplamente adotado como React, Vue.js ou Angular. Isso pode resultar em menos bibliotecas e ferramentas disponíveis e uma comunidade menor. Além disso, como Svelte não é tão popular, pode haver menos oportunidades de trabalho para desenvolvedores Svelte em comparação com React ou Angular.
-   
+
+
+
+
+[//]: # (TODO: Add Support for searching user by part of the email ;))
