@@ -62,5 +62,5 @@ Vue.js foi escolhido como o framework de frontend por várias razões:
 
 
 
+> TODO: Add Support for searching user by part of the email ;)
 
-[//]: # (TODO: Add Support for searching user by part of the email ;))
